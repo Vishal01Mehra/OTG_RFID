@@ -71,7 +71,7 @@ UID: DE AD BE EF
 - Buzzer (active or transistor-driven passive)
 
 ### Build & Flash
-1. Clone this repo: `git clone https://github.com/<your-username>/stm32g0-mfrc522-rfid`
+1. Clone this repo: `https://github.com/Vishal01Mehra/OTG_RFID`
 2. Open the `.ioc` file in STM32CubeIDE
 3. Generate code and build
 4. Flash to STM32G0 MCU
