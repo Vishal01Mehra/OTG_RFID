@@ -1,5 +1,7 @@
 # STM32G0 + MFRC522 RFID Reader
-
+<p align="center">
+  <img src="Images/OTG_RFID_Reader_2025-Jun-09_12-04-41AM-000_CustomizedView36382588610.png" width="400"/>
+</p>
 This repository provides code and hardware documentation for interfacing the **MFRC522 RFID reader** with an **STM32G0 series microcontroller** over SPI. The firmware initializes the MFRC522, detects RFID cards, and prints their UID over UART. It also includes support for an **addressable RGB LED** (e.g., WS2812B) and a **buzzer** for feedback.
 
 ##  Features
