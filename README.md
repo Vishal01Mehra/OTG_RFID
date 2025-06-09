@@ -52,7 +52,7 @@ This repository provides code and hardware documentation for interfacing the **M
 
 ---
 
-##  Example Output (UART)
+##  Example Output (USB)
 ```
 MFRC522 Reader Initialized
 Scan RFID...
