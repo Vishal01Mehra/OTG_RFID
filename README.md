@@ -32,7 +32,7 @@ This repository provides code and hardware documentation for interfacing the **M
 
 ---
 
-## 🛠️ Hardware Connections
+##  Hardware Connections
 ### SPI Interface
 | MFRC522 Pin | STM32G0 Pin | Description |
 |-------------|-------------|-------------|
@@ -83,7 +83,7 @@ UID: DE AD BE EF
 
 ---
 
-## 📚 References
+##  References
 - [MFRC522 Datasheet](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf)
 - [STM32G0 Reference Manual](https://www.st.com/resource/en/reference_manual/dm00371828.pdf)
 - [WS2812B Timing](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
